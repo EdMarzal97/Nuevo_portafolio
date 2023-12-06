@@ -9,7 +9,7 @@ const Header = () => {
             Edward S. Marzal
           </h1>
           <div className={styles.buttons}>
-              <h2>Software Engineer</h2>
+              <h2>Back-end Engineer</h2>
           </div>
           <div className={styles.buttons}>
             <button> <a href="/Edward Marzal resume.pdf" download="Edward Marzal resume"> Download my resume </a> </button>
